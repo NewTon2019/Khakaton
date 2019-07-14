@@ -1,0 +1,6 @@
+{
+  "/api/*":{
+    "target":"https://api-maps.yandex.ru",
+    "secure":true
+  }
+}
